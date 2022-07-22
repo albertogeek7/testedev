@@ -1,0 +1,26 @@
+body{
+    background-color: lightgrey;
+    height: 100vh;
+}
+h1{
+    font-size: 2em;
+    text-align: center;
+}
+.div1{
+width: 100px;
+height: 100px;
+background-color: rgb(123, 123, 254);
+display: inline-block;
+}
+.div2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 126, 126);
+    display: inline-block;
+}
+.div3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(134, 255, 134);
+    display: inline-block;
+}
